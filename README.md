@@ -36,7 +36,7 @@ Tengo un Grado Superior en Desarrollo de Aplicaciones Multiplataforma y un títu
 
 ## Cómo contactarme
 
-¡Estoy siempre abierto/a a nuevas oportunidades y colaboraciones! Puedes contactarme a través de (mailto:nicomunozarcos@gmail.com) o [mi perfil de LinkedIn](https://www.linkedin.com/in/nicomunozarcos)).
+¡Estoy siempre abierto/a a nuevas oportunidades y colaboraciones! Puedes contactarme a través de mi correo(mailto:nicomunozarcos@gmail.com) o mi perfil de LinkedIn(https://www.linkedin.com/in/nicomunozarcos).
 
 ¡Gracias por visitar mi repositorio!
 
