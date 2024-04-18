@@ -1,11 +1,13 @@
 
-Este repositorio contiene ejemplos de mi trabajo como programador, así como proyectos personales y contribuciones a proyectos de código abierto.
-
 ## Sobre mí
 
 ¡Hola! Soy Nico, programador con experiencia en desarrollo web y aplicaciones multiplataforma. Durante cuatro meses, realicé prácticas en una empresa de telefonía, donde adquirí experiencia práctica en tecnologías como JavaScript, HTML, CSS, React, Node.js y SQL.
 
 Tengo un Grado Superior en Desarrollo de Aplicaciones Multiplataforma y un título universitario en Filología Inglesa, lo que me permite trabajar tanto en el front end como en el back end de proyectos y comunicarme efectivamente en inglés.
+
+Desde adolescente tuve interés por los idiomas, por eso cuando tenía 18 años me fui a vivir a Escocia una temporada. Cuando volví a España, me matriculé en la universidad y posteriormente estuve trabajando en academias de inglés. Con 24 años decidí pasar a estudiar otro lenguaje, pero esta vez un lenguaje de programación en lugar de un idioma, y he disfrutado muchísimo haciendolo.
+
+Además de en el desarrollo de aplicaciones, también estoy muy interesado en el campo de la ciberseguridad.
 
 ## Tecnologías que domino
 
