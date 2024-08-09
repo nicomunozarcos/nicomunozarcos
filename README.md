@@ -21,7 +21,7 @@ Además de en el desarrollo de aplicaciones, también estoy muy interesado en el
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Backend
 
@@ -34,7 +34,7 @@ Además de en el desarrollo de aplicaciones, también estoy muy interesado en el
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px 30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ## Cómo contactarme
 
